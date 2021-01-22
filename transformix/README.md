@@ -43,9 +43,9 @@ This will now read all the inputs from `<local_input_folder>` and will put outpu
 
 ### Elastix
 
-To register an image to obtain the transform parameters `elastix` is needed. See [the elastix docker](XXX) for instructions.
+To register an image to obtain the transform parameters `elastix` is needed. See [the elastix docker](https://github.com/Svdvoort/docker-images/blob/main/elastix/README.md) for instructions.
 
 ### Elastix-container
 
-If you would like a base image containing elastix and transformix without running them directly, use the [elastix-container docker](XXX).
+If you would like a base image containing elastix and transformix without running them directly, use the [elastix-container docker](https://github.com/Svdvoort/docker-images/blob/main/elastix-container/README.md).
 

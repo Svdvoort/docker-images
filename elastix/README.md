@@ -42,8 +42,8 @@ This will now read all the inputs from `<local_input_folder>` and will put outpu
 
 ### Transformix
 
-To transform an image using the parameters obtained `transformix` is needed. See [the transformix docker](XXX) for instructions.
+To transform an image using the parameters obtained `transformix` is needed. See [the transformix docker](https://github.com/Svdvoort/docker-images/blob/main/transformix/README.md) for instructions.
 
 ### Elastix-container
 
-If you would like a base image containing elastix and transformix without running them directly, use the [elastix-container docker](XXX).
+If you would like a base image containing elastix and transformix without running them directly, use the [elastix-container docker](https://github.com/Svdvoort/docker-images/blob/main/elastix-container/README.md).
